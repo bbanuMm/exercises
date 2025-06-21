@@ -1,0 +1,23 @@
+.img {
+    display: inline-block;
+    margin-left: 100px;
+     margin-top: 60px;
+     padding-bottom: 50px;  
+
+}
+
+.text {
+    display: inline-block;
+    margin: 100px;
+   text-align: center;
+   color:rgb(70, 61, 51)  ;
+   font-family: serif;
+}
+
+.bck {
+    background-color: rgb(196, 179, 157);
+}
+
+.btu {
+    background-color: rgb(110, 97, 80) !important;
+}
